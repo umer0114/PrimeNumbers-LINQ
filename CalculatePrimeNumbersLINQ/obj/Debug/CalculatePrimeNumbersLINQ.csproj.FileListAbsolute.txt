@@ -1,0 +1,6 @@
+c:\users\umer\documents\visual studio 2015\Projects\CalculatePrimeNumbersLINQ\CalculatePrimeNumbersLINQ\bin\Debug\CalculatePrimeNumbersLINQ.exe.config
+c:\users\umer\documents\visual studio 2015\Projects\CalculatePrimeNumbersLINQ\CalculatePrimeNumbersLINQ\obj\Debug\CalculatePrimeNumbersLINQ.csprojResolveAssemblyReference.cache
+c:\users\umer\documents\visual studio 2015\Projects\CalculatePrimeNumbersLINQ\CalculatePrimeNumbersLINQ\bin\Debug\CalculatePrimeNumbersLINQ.exe
+c:\users\umer\documents\visual studio 2015\Projects\CalculatePrimeNumbersLINQ\CalculatePrimeNumbersLINQ\bin\Debug\CalculatePrimeNumbersLINQ.pdb
+c:\users\umer\documents\visual studio 2015\Projects\CalculatePrimeNumbersLINQ\CalculatePrimeNumbersLINQ\obj\Debug\CalculatePrimeNumbersLINQ.exe
+c:\users\umer\documents\visual studio 2015\Projects\CalculatePrimeNumbersLINQ\CalculatePrimeNumbersLINQ\obj\Debug\CalculatePrimeNumbersLINQ.pdb
